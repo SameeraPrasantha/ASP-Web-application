@@ -1,0 +1,36 @@
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\Sameera Pizza.dll.config
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\Sameera Pizza.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\Sameera Pizza.pdb
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\csc.exe
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\csc.exe.config
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\csc.rsp
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\csi.exe
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\csi.rsp
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\System.AppContext.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\vbc.exe
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\vbc.exe.config
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\vbc.rsp
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\obj\Debug\Sameera Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\obj\Debug\Sameera Pizza.csproj.CopyComplete
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\obj\Debug\Sameera Pizza.dll
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\obj\Debug\Sameera Pizza.pdb
+C:\Users\Sameera\source\repos\Sameera Pizza\Sameera Pizza\obj\Debug\Sameera Pizza.csproj.AssemblyReference.cache
